@@ -1,5 +1,5 @@
-##ITE1717 - Datakommunikasjon og Sikkerhet
-#Obligatorisk innlevering 7
+ITE1717 - Datakommunikasjon og Sikkerhet
+Obligatorisk innlevering 7
 av Mikael Bendiksen og Lisa Marie Sørensen
 Høgskolen i Narvik 2013
 
