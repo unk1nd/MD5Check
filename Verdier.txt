@@ -1,0 +1,50 @@
+
+	FIL: Dokument.docx
+----------------------------------------------------
+	Path: C:\Users\Mikael\workspace\MD5 Check\files_to_check\Dokument.docx
+	FileSize: 12.3203125 kb
+	Last Modified: 21/03/13 21:18:44
+	MD5 Checksum: e6d35d531ca6d5217b7b9cd97e210bb7
+	Date Checked: 21/03/13 21:23:28
+----------------------------------------------------
+
+
+	FIL: New Microsoft Excel Worksheet.xlsx
+----------------------------------------------------
+	Path: C:\Users\Mikael\workspace\MD5 Check\files_to_check\New Microsoft Excel Worksheet.xlsx
+	FileSize: 8.541015625 kb
+	Last Modified: 21/03/13 20:58:37
+	MD5 Checksum: 24c5f78682d5a3c540887d94dc075ae1
+	Date Checked: 21/03/13 21:23:28
+----------------------------------------------------
+
+
+	FIL: New Text Document (2).txt
+----------------------------------------------------
+	Path: C:\Users\Mikael\workspace\MD5 Check\files_to_check\New Text Document (2).txt
+	FileSize: 0.0 kb
+	Last Modified: 21/03/13 21:17:37
+	MD5 Checksum: d41d8cd98f00b204e9800998ecf8427e
+	Date Checked: 21/03/13 21:23:28
+----------------------------------------------------
+
+
+	FIL: New Text Document (3).txt
+----------------------------------------------------
+	Path: C:\Users\Mikael\workspace\MD5 Check\files_to_check\New Text Document (3).txt
+	FileSize: 0.0 kb
+	Last Modified: 21/03/13 21:19:23
+	MD5 Checksum: d41d8cd98f00b204e9800998ecf8427e
+	Date Checked: 21/03/13 21:23:28
+----------------------------------------------------
+
+
+	FIL: New Text Document.txt
+----------------------------------------------------
+	Path: C:\Users\Mikael\workspace\MD5 Check\files_to_check\New Text Document.txt
+	FileSize: 0.0107421875 kb
+	Last Modified: 21/03/13 19:44:40
+	MD5 Checksum: 5cb91e58c39b8bf1dfdf95762805b29b
+	Date Checked: 21/03/13 21:23:28
+----------------------------------------------------
+
